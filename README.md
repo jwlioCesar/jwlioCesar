@@ -7,8 +7,12 @@
 
 ## Estatísticas 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwlioCesar&show_icons=true&theme=white)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwlioCesar&layout=compact)](https://github.com/ArthurSous4/github-readme-stats)
+<div align="center">  
+  <img width="54%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jwlioCesar&show_icons=true&count_private=true&hide_border=true&title_color=FFFFF&icon_color=FFFFF&text_color=FFFFFF&bg_color=000000" alt="Julio Cesar F github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwlioCesar&layout=compact&hide_border=true&title_color=FFFFF&text_color=FFFFFF&bg_color=000000" />
+</div>
+
+
  
 ### Cursando:
  
