@@ -1,20 +1,17 @@
 
+<h1 align="center"> Hello world, my name is Júlio🖐️</h1>
 
-## Olá, eu sou o Júlio César🖐️
-
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliocesar-br/)
-
-## Estatísticas 
-
-<div align="center">  
-  <img width="54%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jwlioCesar&show_icons=true&count_private=true&hide_border=true&title_color=FFFFF&icon_color=FFFFF&text_color=FFFFFF&bg_color=000000" alt="Julio Cesar F github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwlioCesar&layout=compact&hide_border=true&title_color=FFFFF&text_color=FFFFFF&bg_color=000000" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/juliocesa/?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:juliocfds20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 
+## 📊 My GitHub Stats:
+
+<div align="center">
+  <img width=49% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jwlioCesar&theme=city_lights&exclude=HTML">
+  <img width=49% src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jwlioCesar&theme=city_lights">
+  <!-- <img width=98% src="https://streak-stats-dusky-theta.com?user=jwlioCesar&theme=algolia&hide_border=true"> -->
+</div>
  
-### Cursando:
- 
-## 🎓ADS 3/4
-   (UNINASSAU - RECIFE-PE)
