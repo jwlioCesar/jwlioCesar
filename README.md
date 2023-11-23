@@ -1,5 +1,3 @@
-
-
 <h1 align="center"> Hello world, my name is Júlio🖐️</h1>
 
 <div align="center">
