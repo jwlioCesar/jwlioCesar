@@ -13,7 +13,16 @@
   <!-- <img width=98% src="https://streak-stats-dusky-theta.com?user=jwlioCesar&theme=algolia&hide_border=true"> -->
 </div>
 
+<div align="center">
+	<img height="35" src="https://img.shields.io/badge/Mysql-123?style=for-the-badge&logo=mysql" />
+	<img height="35" src="https://img.shields.io/badge/Java-123?style=for-the-badge&logo=java" />
+	<img height="35" src="https://img.shields.io/badge/Springboot-123?style=for-the-badge&logo=springboot" />
+	<img height="35" src="https://img.shields.io/badge/HTML5-123?style=for-the-badge&logo=html5" />
+	<img height="35" src="https://img.shields.io/badge/CSS3-123?style=for-the-badge&logo=css3&logoColor=264CE4" />
+	<img height="35" src="https://img.shields.io/badge/JavaScript-123?style=for-the-badge&logo=javascript" />
+ 	<img height="35" src="https://img.shields.io/badge/AWS-123?style=for-the-badge&logo=amazon" />
 
+</div>
 
 <!-- 
  <div align="center">
